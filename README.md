@@ -18,12 +18,6 @@ A fully responsive and modern landing page built using HTML5 and CSS3, designed 
 
 🖼️ Media Queries – Ensures consistent look across various screen sizes
 
-🧱 Project Structure
-Landing-Page/
-│
-├── index.html        # Main HTML file
-├── style.css         # Stylesheet for layout and responsiveness
-└── img/              # Images and assets (logo, icons, etc.)
 
 📸 Sections Overview
 
