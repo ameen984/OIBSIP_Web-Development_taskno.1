@@ -47,25 +47,3 @@ Font Awesome 7 for icons
 
 Google Fonts (Poppins) for typography
 
-⚙️ How to Run
-
-Clone or download this repository:
-
-git clone https://github.com/your-username/landing-page.git
-
-
-Open the folder in your code editor (e.g., VS Code).
-
-Launch the project:
-
-Simply open index.html in your browser, or
-
-Use a local server like Live Server in VS Code.
-
-💡 Future Improvements
-
-Add animations and transitions for better UX
-
-Implement JavaScript for interactivity (e.g., carousel, form validation)
-
-Connect newsletter form to a backend service
